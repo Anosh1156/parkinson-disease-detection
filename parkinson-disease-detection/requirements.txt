@@ -1,0 +1,9 @@
+roboflow
+tensorflow>=2.16
+scikit-learn
+matplotlib
+seaborn
+pandas
+pillow
+imagehash
+numpy
